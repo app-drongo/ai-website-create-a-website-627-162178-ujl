@@ -190,7 +190,7 @@ export default function Contact() {
             <div className="space-y-4">
               <h3 className="text-xl font-semibold flex items-center gap-2">
                 <Headphones className="size-5 text-primary" />
-                Get in Touch yes yes
+                Get in Touch yes yes yes
               </h3>
               <div className="grid gap-4">
                 {contactMethods.map((method, index) => {

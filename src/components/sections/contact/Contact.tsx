@@ -94,7 +94,7 @@ export default function Contact() {
           </h2>
           <p className="text-lg text-muted-foreground leading-relaxed">
             Have questions? We'd love to hear from you. Send us a message and 
-            we'll respond as soon as possible.
+            we'll respond as soon as possible.dsc
           </p>
         </div>
 

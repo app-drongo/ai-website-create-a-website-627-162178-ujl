@@ -89,7 +89,7 @@ export default function Contact() {
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold mb-6">
             Let's Start a
             <span className="block bg-gradient-to-r from-primary to-primary/60 bg-clip-text text-transparent">
-              ConversationyessssNooooYesss
+              ConversationyessssNooooYesssYesss
             </span>
           </h2>
           <p className="text-lg text-muted-foreground leading-relaxed">

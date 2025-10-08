@@ -262,7 +262,7 @@ export default function Contact() {
                 <div className="mt-4 p-3 bg-primary/10 rounded-lg">
                   <p className="text-sm text-primary font-medium flex items-center gap-2">
                     <Users className="size-4" />
-                    24/7 support available for Enterprise customers
+                    24/7 support available for Enterprise customers yes
                   </p>
                 </div>
               </CardContent>
